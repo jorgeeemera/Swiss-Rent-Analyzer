@@ -10,6 +10,9 @@ As an international Software Engineering student at FHNW (Switzerland), I develo
 
 **👉 [View the Interactive Tableau Dashboard Here](https://public.tableau.com/shared/YC7YDM6W8?:display_count=n&:origin=viz_share_link)**
 
+### 📊 Dashboard Preview
+![Swiss Rent Analyzer Dashboard](images/dashboard.jpg)
+
 ## 🛠️ The Pipeline (ETL Process)
 
 1. **Extract & Transform (Python/Pandas):** - Cleaned a raw dataset of 1,000+ Swiss apartment listings.
