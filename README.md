@@ -11,7 +11,7 @@ As an international Software Engineering student at FHNW (Switzerland), I develo
 **👉 [View the Interactive Tableau Dashboard Here](https://public.tableau.com/shared/YC7YDM6W8?:display_count=n&:origin=viz_share_link)**
 
 ### 📊 Dashboard Preview
-![Swiss Rent Analyzer Dashboard](images/dashboard.jpg)
+![Swiss Rent Analyzer Dashboard](images/dashboard.png)
 
 ## 🛠️ The Pipeline (ETL Process)
 
